@@ -1,0 +1,12 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Deposito",
+      "type": "income",
+      "category": "Poupança",
+      "price": 24000,
+      "createdAt": "2023-04-25T16:18:20.721Z"
+    }
+  ]
+}
